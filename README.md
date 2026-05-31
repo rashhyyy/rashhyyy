@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rashmi Nishadini</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center"> Full-Stack Developer | Database Explorer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashhyyy&label=Profile%20views&color=0e75b6&style=flat" alt="rashhyyy" /> </p>
-- 🌱 I’m currently learning **Java**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rashhyyy&label=Profile%20views&color=0e75b6&style=flat" alt="rashhyyy" /> </p><ol>
+🎓 Third year Software Engineering student
+💡 Passionate about Java development and building scalable full-stack applications
+📱 Currently exploring mobile app development using Flutter and React Native
+📚 Diving deeper into Spring Boot, Microservices, Android Studio and REST APIs
+💬 Always open to discussing tech, databases, and development trends
+📫 Reach me at: rashminishadini2002@gmail.com</ol>
 
-- 💬 Ask me about **Java**
 
-- 📫 How to reach me **rashminishadini2002@gmail.com**
-
-- ⚡ Fun fact **call me Rash**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
