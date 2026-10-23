@@ -30,18 +30,6 @@ Software Engineering Undergraduate | Full-Stack Developer | UI/UX Enthusiast
 
 ---
 
-## 📂 Featured Projects
-
-### ☕ Cafe Finder
-Mobile application that helps users locate nearby cafes and view location details.
-
-### 🎓 EduPath Lanka
-Educational guidance system helping students explore alternative education pathways.
-
-### 🎯 Smart Student Support and Guidance System
-Web-based system for student career guidance and educational recommendations.
-
----
 
 ## 🌐 Connect With Me
 
